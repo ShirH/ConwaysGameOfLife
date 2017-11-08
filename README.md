@@ -4,7 +4,7 @@
 
 -run "npm start"
 
-open "http://localhost:8080" and play!
+open "http://localhost:8080" and play! 
 
 
 ###Screenshots
